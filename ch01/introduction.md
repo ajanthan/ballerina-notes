@@ -1,0 +1,2 @@
+## Introduction
+Ballerina is a compiled, concurrent, statically typed and type safe programming language designed for developing network aware applications. It has builtin language construct to simplify netwok application developers life. Learn more about the philosophy behind the language [here](https://ballerina.io/philosophy/)
