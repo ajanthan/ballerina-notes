@@ -1,5 +1,5 @@
 ## Installation
-Langauge maintainers is zipping installation packages for different OSs. Download the language installation package for your OS from the [site](https://ballerina.io/downloads/) and follow through the installation wizard. To test the installation open up a new terminal window and type following.
+Langauge maintainers are zipping installation packages for different OSes. Download the language installation package for your OS from the [site](https://ballerina.io/downloads/) and follow through the installation wizard. To test the installation open up a new terminal window and type following.
 
 `ballerina --version`
 
