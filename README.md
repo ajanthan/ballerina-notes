@@ -1,5 +1,5 @@
-# ballerina-notes
-My notes on [ballerina](https://ballerina.io)
+# Ballerina Notes
+My notes on [Ballerina](https://ballerina.io)
 
 ### Chapter 01
 1. [Introduction](ch01/introduction.md)
@@ -9,3 +9,5 @@ My notes on [ballerina](https://ballerina.io)
 
 ### Chapter 02
 1. [Entry point](ch02/Entry_point.md)
+2. [Module](ch02/Module.md)
+3. [Variables](ch02/Variables.md)
