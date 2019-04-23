@@ -4,6 +4,8 @@ There are three types of variable declaration supported by Ballerina.
 1. var \<variable name> = \<initial value>;
 
     E.g `var name = "Ajanthan";`
+
+    `var` key word is used to decalre variable without mentioning type. The type is infered from the initilaized value.
 2. \<type name> \<variable name> = \<initial value>;
     
     E.g `int age = 24;`
